@@ -1,0 +1,30 @@
+name: timezone_converter
+description: A timezone converter app with Firestore integration
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  google_sign_in: 6.1.6  # NO ^ symbol!
+  firebase_auth: 4.15.3
+  firebase_core: 2.24.2
+  cloud_firestore: 4.14.0
+  timezone: 0.9.2
+  intl: 0.18.1
+  http: ^1.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "#2196F3"
+  adaptive_icon_foreground: "assets/icon.png"

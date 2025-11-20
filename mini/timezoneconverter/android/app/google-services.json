@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "430360843865",
+    "project_id": "miniproject-77533",
+    "storage_bucket": "miniproject-77533.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430360843865:android:a15e08dfdb657a9a178348",
+        "android_client_info": {
+          "package_name": "com.example.timezoneconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430360843865-obo15bq55s9768fjjaka5cvis3uud9e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timezoneconverter",
+            "certificate_hash": "3a6eeda41b51b752f70988fc9677b89364920c34"
+          }
+        },
+        {
+          "client_id": "430360843865-f8qlhkk7tie2ldkghomgvqctkk8d71ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7-FcU_wfz0qxNrIS9lzoeTCi-fJSnH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430360843865-f8qlhkk7tie2ldkghomgvqctkk8d71ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430360843865-spbv6vvmtod21c97ns9dt9562bp1oe1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.timezoneconverter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
